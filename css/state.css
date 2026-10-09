@@ -1,0 +1,454 @@
+#c1:checked{counter-increment:items 1 total 566}
+#c2:checked{counter-increment:items 1 total 323}
+#c3:checked{counter-increment:items 1 total 800}
+#c4:checked{counter-increment:items 1 total 557}
+#c5:checked{counter-increment:items 1 total 314}
+#c6:checked{counter-increment:items 1 total 791}
+#c7:checked{counter-increment:items 1 total 548}
+#c8:checked{counter-increment:items 1 total 305}
+#c9:checked{counter-increment:items 1 total 782}
+#c10:checked{counter-increment:items 1 total 539}
+#c11:checked{counter-increment:items 1 total 296}
+#c12:checked{counter-increment:items 1 total 773}
+#c13:checked{counter-increment:items 1 total 530}
+#c14:checked{counter-increment:items 1 total 287}
+#c15:checked{counter-increment:items 1 total 764}
+#c16:checked{counter-increment:items 1 total 521}
+#c17:checked{counter-increment:items 1 total 278}
+#c18:checked{counter-increment:items 1 total 755}
+#c19:checked{counter-increment:items 1 total 512}
+#c20:checked{counter-increment:items 1 total 269}
+#c21:checked{counter-increment:items 1 total 746}
+#c22:checked{counter-increment:items 1 total 503}
+#c23:checked{counter-increment:items 1 total 260}
+#c24:checked{counter-increment:items 1 total 737}
+#c25:checked{counter-increment:items 1 total 494}
+#c26:checked{counter-increment:items 1 total 251}
+#c27:checked{counter-increment:items 1 total 728}
+#c28:checked{counter-increment:items 1 total 485}
+#c29:checked{counter-increment:items 1 total 242}
+#c30:checked{counter-increment:items 1 total 719}
+#c31:checked{counter-increment:items 1 total 476}
+#c32:checked{counter-increment:items 1 total 233}
+#c33:checked{counter-increment:items 1 total 710}
+#c34:checked{counter-increment:items 1 total 467}
+#c35:checked{counter-increment:items 1 total 224}
+#c36:checked{counter-increment:items 1 total 701}
+#c37:checked{counter-increment:items 1 total 458}
+#c38:checked{counter-increment:items 1 total 215}
+#c39:checked{counter-increment:items 1 total 692}
+#c40:checked{counter-increment:items 1 total 449}
+#c41:checked{counter-increment:items 1 total 206}
+#c42:checked{counter-increment:items 1 total 683}
+#c43:checked{counter-increment:items 1 total 440}
+#c44:checked{counter-increment:items 1 total 197}
+#c45:checked{counter-increment:items 1 total 674}
+#c46:checked{counter-increment:items 1 total 431}
+#c47:checked{counter-increment:items 1 total 188}
+#c48:checked{counter-increment:items 1 total 665}
+#c49:checked{counter-increment:items 1 total 422}
+#c50:checked{counter-increment:items 1 total 179}
+#c51:checked{counter-increment:items 1 total 656}
+#c52:checked{counter-increment:items 1 total 413}
+#c53:checked{counter-increment:items 1 total 170}
+#c54:checked{counter-increment:items 1 total 647}
+#c55:checked{counter-increment:items 1 total 404}
+#c56:checked{counter-increment:items 1 total 161}
+#c57:checked{counter-increment:items 1 total 638}
+#c58:checked{counter-increment:items 1 total 395}
+#c59:checked{counter-increment:items 1 total 152}
+#c60:checked{counter-increment:items 1 total 629}
+#c61:checked{counter-increment:items 1 total 386}
+#c62:checked{counter-increment:items 1 total 143}
+#c63:checked{counter-increment:items 1 total 620}
+#c64:checked{counter-increment:items 1 total 377}
+#c65:checked{counter-increment:items 1 total 134}
+#c66:checked{counter-increment:items 1 total 611}
+#c67:checked{counter-increment:items 1 total 368}
+#c68:checked{counter-increment:items 1 total 125}
+#c69:checked{counter-increment:items 1 total 602}
+#c70:checked{counter-increment:items 1 total 359}
+#c71:checked{counter-increment:items 1 total 116}
+#c72:checked{counter-increment:items 1 total 593}
+#c73:checked{counter-increment:items 1 total 350}
+#c74:checked{counter-increment:items 1 total 107}
+#c75:checked{counter-increment:items 1 total 584}
+#c76:checked{counter-increment:items 1 total 341}
+#c77:checked{counter-increment:items 1 total 98}
+#c78:checked{counter-increment:items 1 total 575}
+#c79:checked{counter-increment:items 1 total 332}
+#c80:checked{counter-increment:items 1 total 89}
+#c81:checked{counter-increment:items 1 total 566}
+#c82:checked{counter-increment:items 1 total 323}
+#c83:checked{counter-increment:items 1 total 800}
+#c84:checked{counter-increment:items 1 total 557}
+#c85:checked{counter-increment:items 1 total 314}
+#c86:checked{counter-increment:items 1 total 791}
+#c87:checked{counter-increment:items 1 total 548}
+#c88:checked{counter-increment:items 1 total 305}
+#c89:checked{counter-increment:items 1 total 782}
+#c90:checked{counter-increment:items 1 total 539}
+
+#c1:checked ~ .drawer .r1,
+#c2:checked ~ .drawer .r2,
+#c3:checked ~ .drawer .r3,
+#c4:checked ~ .drawer .r4,
+#c5:checked ~ .drawer .r5,
+#c6:checked ~ .drawer .r6,
+#c7:checked ~ .drawer .r7,
+#c8:checked ~ .drawer .r8,
+#c9:checked ~ .drawer .r9,
+#c10:checked ~ .drawer .r10,
+#c11:checked ~ .drawer .r11,
+#c12:checked ~ .drawer .r12,
+#c13:checked ~ .drawer .r13,
+#c14:checked ~ .drawer .r14,
+#c15:checked ~ .drawer .r15,
+#c16:checked ~ .drawer .r16,
+#c17:checked ~ .drawer .r17,
+#c18:checked ~ .drawer .r18,
+#c19:checked ~ .drawer .r19,
+#c20:checked ~ .drawer .r20,
+#c21:checked ~ .drawer .r21,
+#c22:checked ~ .drawer .r22,
+#c23:checked ~ .drawer .r23,
+#c24:checked ~ .drawer .r24,
+#c25:checked ~ .drawer .r25,
+#c26:checked ~ .drawer .r26,
+#c27:checked ~ .drawer .r27,
+#c28:checked ~ .drawer .r28,
+#c29:checked ~ .drawer .r29,
+#c30:checked ~ .drawer .r30,
+#c31:checked ~ .drawer .r31,
+#c32:checked ~ .drawer .r32,
+#c33:checked ~ .drawer .r33,
+#c34:checked ~ .drawer .r34,
+#c35:checked ~ .drawer .r35,
+#c36:checked ~ .drawer .r36,
+#c37:checked ~ .drawer .r37,
+#c38:checked ~ .drawer .r38,
+#c39:checked ~ .drawer .r39,
+#c40:checked ~ .drawer .r40,
+#c41:checked ~ .drawer .r41,
+#c42:checked ~ .drawer .r42,
+#c43:checked ~ .drawer .r43,
+#c44:checked ~ .drawer .r44,
+#c45:checked ~ .drawer .r45,
+#c46:checked ~ .drawer .r46,
+#c47:checked ~ .drawer .r47,
+#c48:checked ~ .drawer .r48,
+#c49:checked ~ .drawer .r49,
+#c50:checked ~ .drawer .r50,
+#c51:checked ~ .drawer .r51,
+#c52:checked ~ .drawer .r52,
+#c53:checked ~ .drawer .r53,
+#c54:checked ~ .drawer .r54,
+#c55:checked ~ .drawer .r55,
+#c56:checked ~ .drawer .r56,
+#c57:checked ~ .drawer .r57,
+#c58:checked ~ .drawer .r58,
+#c59:checked ~ .drawer .r59,
+#c60:checked ~ .drawer .r60,
+#c61:checked ~ .drawer .r61,
+#c62:checked ~ .drawer .r62,
+#c63:checked ~ .drawer .r63,
+#c64:checked ~ .drawer .r64,
+#c65:checked ~ .drawer .r65,
+#c66:checked ~ .drawer .r66,
+#c67:checked ~ .drawer .r67,
+#c68:checked ~ .drawer .r68,
+#c69:checked ~ .drawer .r69,
+#c70:checked ~ .drawer .r70,
+#c71:checked ~ .drawer .r71,
+#c72:checked ~ .drawer .r72,
+#c73:checked ~ .drawer .r73,
+#c74:checked ~ .drawer .r74,
+#c75:checked ~ .drawer .r75,
+#c76:checked ~ .drawer .r76,
+#c77:checked ~ .drawer .r77,
+#c78:checked ~ .drawer .r78,
+#c79:checked ~ .drawer .r79,
+#c80:checked ~ .drawer .r80,
+#c81:checked ~ .drawer .r81,
+#c82:checked ~ .drawer .r82,
+#c83:checked ~ .drawer .r83,
+#c84:checked ~ .drawer .r84,
+#c85:checked ~ .drawer .r85,
+#c86:checked ~ .drawer .r86,
+#c87:checked ~ .drawer .r87,
+#c88:checked ~ .drawer .r88,
+#c89:checked ~ .drawer .r89,
+#c90:checked ~ .drawer .r90{display:grid}
+
+#c1:checked ~ main .p1 .add,
+#c2:checked ~ main .p2 .add,
+#c3:checked ~ main .p3 .add,
+#c4:checked ~ main .p4 .add,
+#c5:checked ~ main .p5 .add,
+#c6:checked ~ main .p6 .add,
+#c7:checked ~ main .p7 .add,
+#c8:checked ~ main .p8 .add,
+#c9:checked ~ main .p9 .add,
+#c10:checked ~ main .p10 .add,
+#c11:checked ~ main .p11 .add,
+#c12:checked ~ main .p12 .add,
+#c13:checked ~ main .p13 .add,
+#c14:checked ~ main .p14 .add,
+#c15:checked ~ main .p15 .add,
+#c16:checked ~ main .p16 .add,
+#c17:checked ~ main .p17 .add,
+#c18:checked ~ main .p18 .add,
+#c19:checked ~ main .p19 .add,
+#c20:checked ~ main .p20 .add,
+#c21:checked ~ main .p21 .add,
+#c22:checked ~ main .p22 .add,
+#c23:checked ~ main .p23 .add,
+#c24:checked ~ main .p24 .add,
+#c25:checked ~ main .p25 .add,
+#c26:checked ~ main .p26 .add,
+#c27:checked ~ main .p27 .add,
+#c28:checked ~ main .p28 .add,
+#c29:checked ~ main .p29 .add,
+#c30:checked ~ main .p30 .add,
+#c31:checked ~ main .p31 .add,
+#c32:checked ~ main .p32 .add,
+#c33:checked ~ main .p33 .add,
+#c34:checked ~ main .p34 .add,
+#c35:checked ~ main .p35 .add,
+#c36:checked ~ main .p36 .add,
+#c37:checked ~ main .p37 .add,
+#c38:checked ~ main .p38 .add,
+#c39:checked ~ main .p39 .add,
+#c40:checked ~ main .p40 .add,
+#c41:checked ~ main .p41 .add,
+#c42:checked ~ main .p42 .add,
+#c43:checked ~ main .p43 .add,
+#c44:checked ~ main .p44 .add,
+#c45:checked ~ main .p45 .add,
+#c46:checked ~ main .p46 .add,
+#c47:checked ~ main .p47 .add,
+#c48:checked ~ main .p48 .add,
+#c49:checked ~ main .p49 .add,
+#c50:checked ~ main .p50 .add,
+#c51:checked ~ main .p51 .add,
+#c52:checked ~ main .p52 .add,
+#c53:checked ~ main .p53 .add,
+#c54:checked ~ main .p54 .add,
+#c55:checked ~ main .p55 .add,
+#c56:checked ~ main .p56 .add,
+#c57:checked ~ main .p57 .add,
+#c58:checked ~ main .p58 .add,
+#c59:checked ~ main .p59 .add,
+#c60:checked ~ main .p60 .add,
+#c61:checked ~ main .p61 .add,
+#c62:checked ~ main .p62 .add,
+#c63:checked ~ main .p63 .add,
+#c64:checked ~ main .p64 .add,
+#c65:checked ~ main .p65 .add,
+#c66:checked ~ main .p66 .add,
+#c67:checked ~ main .p67 .add,
+#c68:checked ~ main .p68 .add,
+#c69:checked ~ main .p69 .add,
+#c70:checked ~ main .p70 .add,
+#c71:checked ~ main .p71 .add,
+#c72:checked ~ main .p72 .add,
+#c73:checked ~ main .p73 .add,
+#c74:checked ~ main .p74 .add,
+#c75:checked ~ main .p75 .add,
+#c76:checked ~ main .p76 .add,
+#c77:checked ~ main .p77 .add,
+#c78:checked ~ main .p78 .add,
+#c79:checked ~ main .p79 .add,
+#c80:checked ~ main .p80 .add,
+#c81:checked ~ main .p81 .add,
+#c82:checked ~ main .p82 .add,
+#c83:checked ~ main .p83 .add,
+#c84:checked ~ main .p84 .add,
+#c85:checked ~ main .p85 .add,
+#c86:checked ~ main .p86 .add,
+#c87:checked ~ main .p87 .add,
+#c88:checked ~ main .p88 .add,
+#c89:checked ~ main .p89 .add,
+#c90:checked ~ main .p90 .add{background:var(--pink-deep)}
+
+#c1:checked ~ main .p1 .add-label,
+#c2:checked ~ main .p2 .add-label,
+#c3:checked ~ main .p3 .add-label,
+#c4:checked ~ main .p4 .add-label,
+#c5:checked ~ main .p5 .add-label,
+#c6:checked ~ main .p6 .add-label,
+#c7:checked ~ main .p7 .add-label,
+#c8:checked ~ main .p8 .add-label,
+#c9:checked ~ main .p9 .add-label,
+#c10:checked ~ main .p10 .add-label,
+#c11:checked ~ main .p11 .add-label,
+#c12:checked ~ main .p12 .add-label,
+#c13:checked ~ main .p13 .add-label,
+#c14:checked ~ main .p14 .add-label,
+#c15:checked ~ main .p15 .add-label,
+#c16:checked ~ main .p16 .add-label,
+#c17:checked ~ main .p17 .add-label,
+#c18:checked ~ main .p18 .add-label,
+#c19:checked ~ main .p19 .add-label,
+#c20:checked ~ main .p20 .add-label,
+#c21:checked ~ main .p21 .add-label,
+#c22:checked ~ main .p22 .add-label,
+#c23:checked ~ main .p23 .add-label,
+#c24:checked ~ main .p24 .add-label,
+#c25:checked ~ main .p25 .add-label,
+#c26:checked ~ main .p26 .add-label,
+#c27:checked ~ main .p27 .add-label,
+#c28:checked ~ main .p28 .add-label,
+#c29:checked ~ main .p29 .add-label,
+#c30:checked ~ main .p30 .add-label,
+#c31:checked ~ main .p31 .add-label,
+#c32:checked ~ main .p32 .add-label,
+#c33:checked ~ main .p33 .add-label,
+#c34:checked ~ main .p34 .add-label,
+#c35:checked ~ main .p35 .add-label,
+#c36:checked ~ main .p36 .add-label,
+#c37:checked ~ main .p37 .add-label,
+#c38:checked ~ main .p38 .add-label,
+#c39:checked ~ main .p39 .add-label,
+#c40:checked ~ main .p40 .add-label,
+#c41:checked ~ main .p41 .add-label,
+#c42:checked ~ main .p42 .add-label,
+#c43:checked ~ main .p43 .add-label,
+#c44:checked ~ main .p44 .add-label,
+#c45:checked ~ main .p45 .add-label,
+#c46:checked ~ main .p46 .add-label,
+#c47:checked ~ main .p47 .add-label,
+#c48:checked ~ main .p48 .add-label,
+#c49:checked ~ main .p49 .add-label,
+#c50:checked ~ main .p50 .add-label,
+#c51:checked ~ main .p51 .add-label,
+#c52:checked ~ main .p52 .add-label,
+#c53:checked ~ main .p53 .add-label,
+#c54:checked ~ main .p54 .add-label,
+#c55:checked ~ main .p55 .add-label,
+#c56:checked ~ main .p56 .add-label,
+#c57:checked ~ main .p57 .add-label,
+#c58:checked ~ main .p58 .add-label,
+#c59:checked ~ main .p59 .add-label,
+#c60:checked ~ main .p60 .add-label,
+#c61:checked ~ main .p61 .add-label,
+#c62:checked ~ main .p62 .add-label,
+#c63:checked ~ main .p63 .add-label,
+#c64:checked ~ main .p64 .add-label,
+#c65:checked ~ main .p65 .add-label,
+#c66:checked ~ main .p66 .add-label,
+#c67:checked ~ main .p67 .add-label,
+#c68:checked ~ main .p68 .add-label,
+#c69:checked ~ main .p69 .add-label,
+#c70:checked ~ main .p70 .add-label,
+#c71:checked ~ main .p71 .add-label,
+#c72:checked ~ main .p72 .add-label,
+#c73:checked ~ main .p73 .add-label,
+#c74:checked ~ main .p74 .add-label,
+#c75:checked ~ main .p75 .add-label,
+#c76:checked ~ main .p76 .add-label,
+#c77:checked ~ main .p77 .add-label,
+#c78:checked ~ main .p78 .add-label,
+#c79:checked ~ main .p79 .add-label,
+#c80:checked ~ main .p80 .add-label,
+#c81:checked ~ main .p81 .add-label,
+#c82:checked ~ main .p82 .add-label,
+#c83:checked ~ main .p83 .add-label,
+#c84:checked ~ main .p84 .add-label,
+#c85:checked ~ main .p85 .add-label,
+#c86:checked ~ main .p86 .add-label,
+#c87:checked ~ main .p87 .add-label,
+#c88:checked ~ main .p88 .add-label,
+#c89:checked ~ main .p89 .add-label,
+#c90:checked ~ main .p90 .add-label{display:none}
+
+#c1:checked ~ main .p1 .added-label,
+#c2:checked ~ main .p2 .added-label,
+#c3:checked ~ main .p3 .added-label,
+#c4:checked ~ main .p4 .added-label,
+#c5:checked ~ main .p5 .added-label,
+#c6:checked ~ main .p6 .added-label,
+#c7:checked ~ main .p7 .added-label,
+#c8:checked ~ main .p8 .added-label,
+#c9:checked ~ main .p9 .added-label,
+#c10:checked ~ main .p10 .added-label,
+#c11:checked ~ main .p11 .added-label,
+#c12:checked ~ main .p12 .added-label,
+#c13:checked ~ main .p13 .added-label,
+#c14:checked ~ main .p14 .added-label,
+#c15:checked ~ main .p15 .added-label,
+#c16:checked ~ main .p16 .added-label,
+#c17:checked ~ main .p17 .added-label,
+#c18:checked ~ main .p18 .added-label,
+#c19:checked ~ main .p19 .added-label,
+#c20:checked ~ main .p20 .added-label,
+#c21:checked ~ main .p21 .added-label,
+#c22:checked ~ main .p22 .added-label,
+#c23:checked ~ main .p23 .added-label,
+#c24:checked ~ main .p24 .added-label,
+#c25:checked ~ main .p25 .added-label,
+#c26:checked ~ main .p26 .added-label,
+#c27:checked ~ main .p27 .added-label,
+#c28:checked ~ main .p28 .added-label,
+#c29:checked ~ main .p29 .added-label,
+#c30:checked ~ main .p30 .added-label,
+#c31:checked ~ main .p31 .added-label,
+#c32:checked ~ main .p32 .added-label,
+#c33:checked ~ main .p33 .added-label,
+#c34:checked ~ main .p34 .added-label,
+#c35:checked ~ main .p35 .added-label,
+#c36:checked ~ main .p36 .added-label,
+#c37:checked ~ main .p37 .added-label,
+#c38:checked ~ main .p38 .added-label,
+#c39:checked ~ main .p39 .added-label,
+#c40:checked ~ main .p40 .added-label,
+#c41:checked ~ main .p41 .added-label,
+#c42:checked ~ main .p42 .added-label,
+#c43:checked ~ main .p43 .added-label,
+#c44:checked ~ main .p44 .added-label,
+#c45:checked ~ main .p45 .added-label,
+#c46:checked ~ main .p46 .added-label,
+#c47:checked ~ main .p47 .added-label,
+#c48:checked ~ main .p48 .added-label,
+#c49:checked ~ main .p49 .added-label,
+#c50:checked ~ main .p50 .added-label,
+#c51:checked ~ main .p51 .added-label,
+#c52:checked ~ main .p52 .added-label,
+#c53:checked ~ main .p53 .added-label,
+#c54:checked ~ main .p54 .added-label,
+#c55:checked ~ main .p55 .added-label,
+#c56:checked ~ main .p56 .added-label,
+#c57:checked ~ main .p57 .added-label,
+#c58:checked ~ main .p58 .added-label,
+#c59:checked ~ main .p59 .added-label,
+#c60:checked ~ main .p60 .added-label,
+#c61:checked ~ main .p61 .added-label,
+#c62:checked ~ main .p62 .added-label,
+#c63:checked ~ main .p63 .added-label,
+#c64:checked ~ main .p64 .added-label,
+#c65:checked ~ main .p65 .added-label,
+#c66:checked ~ main .p66 .added-label,
+#c67:checked ~ main .p67 .added-label,
+#c68:checked ~ main .p68 .added-label,
+#c69:checked ~ main .p69 .added-label,
+#c70:checked ~ main .p70 .added-label,
+#c71:checked ~ main .p71 .added-label,
+#c72:checked ~ main .p72 .added-label,
+#c73:checked ~ main .p73 .added-label,
+#c74:checked ~ main .p74 .added-label,
+#c75:checked ~ main .p75 .added-label,
+#c76:checked ~ main .p76 .added-label,
+#c77:checked ~ main .p77 .added-label,
+#c78:checked ~ main .p78 .added-label,
+#c79:checked ~ main .p79 .added-label,
+#c80:checked ~ main .p80 .added-label,
+#c81:checked ~ main .p81 .added-label,
+#c82:checked ~ main .p82 .added-label,
+#c83:checked ~ main .p83 .added-label,
+#c84:checked ~ main .p84 .added-label,
+#c85:checked ~ main .p85 .added-label,
+#c86:checked ~ main .p86 .added-label,
+#c87:checked ~ main .p87 .added-label,
+#c88:checked ~ main .p88 .added-label,
+#c89:checked ~ main .p89 .added-label,
+#c90:checked ~ main .p90 .added-label{display:inline}

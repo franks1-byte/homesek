@@ -1,0 +1,40 @@
+.tabs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:26px}
+.tab{border:1px solid var(--line);background:#fff;padding:9px 24px;border-radius:50px;font-size:.9rem;transition:.25s}
+
+.tab:hover,
+.tab.t-all,
+#bedroom:target ~ .tabs .t-bedroom,
+#living:target ~ .tabs .t-living,
+#kitchen:target ~ .tabs .t-kitchen{background:var(--ink);color:#fff;border-color:var(--ink)}
+
+:is(#bedroom,#living,#kitchen):target ~ .tabs .t-all:not(:hover){background:#fff;color:var(--ink);border-color:var(--line)}
+
+#bedroom:target ~ .products .product:not(.cat-bedroom),
+#living:target ~ .products .product:not(.cat-living),
+#kitchen:target ~ .products .product:not(.cat-kitchen){display:none}
+
+.products{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.product{background:#fff;border-radius:18px;overflow:hidden;transition:.35s;opacity:0;transform:translateY(20px);animation:rise .6s forwards}
+.product:nth-child(2){animation-delay:.06s}
+.product:nth-child(3){animation-delay:.12s}
+.product:nth-child(4){animation-delay:.18s}
+.product:hover{transform:translateY(-6px);box-shadow:0 18px 36px rgba(43,36,48,.12)}
+.product .slot{height:220px}
+.product .photo{transition:transform .7s}
+.product:hover .photo{transform:scale(1.08)}
+
+.tag{position:absolute;top:12px;left:12px;background:var(--pink-deep);color:#fff;font-size:.72rem;font-weight:600;padding:3px 12px;border-radius:50px}
+
+.p-body{padding:18px}
+.p-body small{color:var(--muted);text-transform:uppercase;font-size:.7rem;letter-spacing:1px}
+.p-body h3{font-size:1rem;font-weight:600;margin:2px 0 10px}
+.p-foot{display:flex;justify-content:space-between;align-items:center}
+.price{font-weight:700;font-size:1.15rem}
+.price s{color:#aaa;font-weight:400;font-size:.85rem;margin-left:6px}
+
+.add{display:inline-block;background:var(--ink);color:#fff;border-radius:50px;padding:10px 20px;font-size:.85rem;font-weight:500;cursor:pointer;transition:.3s}
+.add:hover{background:var(--pink-deep)}
+.added-label{display:none}
+
+@media(max-width:980px){.products{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:520px){.products{grid-template-columns:1fr}}
